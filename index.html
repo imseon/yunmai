@@ -34,8 +34,7 @@
 
     <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1253393643";
-
+    const serviceWorkerVersion = "635305855";
 
 
 
@@ -59,15 +58,15 @@
           serviceWorkerVersion: serviceWorkerVersion,
         },
         onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine({
+
+          const engine = engineInitializer.initializeEngine({
             renderer: 'canvaskit'
-          }).then(function(appRunner) {
+          }).then(function(appRunner,a,b,c) {
             appRunner.runApp();
           });
         }
       });
     });
-
 
 
 
