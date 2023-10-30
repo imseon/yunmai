@@ -33242,7 +33242,7 @@ var $async$$0=A.X(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 k=n.b
 j=k.b
-m="https://fonts.seon.pub/s/"+j
+m="https://fonts.gstatic.com/s/"+j
 s=7
 return A.a0(n.a.a.a.B6(k.a,m),$async$$0)
 case 7:n.c.push(j)
@@ -101954,7 +101954,7 @@ B.av=A.a(s(["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]),t.s)
 B.rx=A.a(s(["\u0412","\u041f","\u0412","\u0421","\u0427","\u041f","\u0421"]),t.s)
 B.i1=A.a(s(["\u064a\u0648\u0646\u06cd","\u062f\u0648\u0646\u06cd","\u062f\u0631\u06d0\u0646\u06cd","\u0685\u0644\u0631\u0646\u06cd","\u067e\u064a\u0646\u0681\u0646\u06cd","\u062c\u0645\u0639\u0647","\u0627\u0648\u0646\u06cd"]),t.s)
 B.Sh=A.a(s(["y\u5e74M\u6708d\u65e5EEEE","y\u5e74M\u6708d\u65e5","y/MM/dd","y/MM/dd"]),t.s)
-B.i2=A.a(s(["NotoTiny","NotoFull"]),t.s)
+B.i2=A.a(s(["NotoSmall","NotoFull"]),t.s)
 B.Sj=A.a(s(["EEEE d MMMM y","d MMMM y","d MMM y","dd-MM-y"]),t.s)
 B.le=A.a(s(["{1} 'kl'. {0}","{1} 'kl'. {0}","{1}, {0}","{1}, {0}"]),t.s)
 B.Si=A.a(s(["{1}, '\u0432\u043e' {0}","{1}, '\u0432\u043e' {0}","{1}, '\u0432\u043e' {0}","{1}, '\u0432\u043e' {0}"]),t.s)
