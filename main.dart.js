@@ -30691,7 +30691,7 @@ $1(a){var s=$.cw
 s=(s==null?$.cw=A.fw(self.window.flutterConfiguration):s).b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://files.seon.pub/":s)+a},
+if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/0545f8705df301877d787107bac1a6e9fc9ee1ad/":s)+a},
 $S:51}
 A.ayQ.prototype={
 $1(a){this.a.remove()
