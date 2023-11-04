@@ -107070,7 +107070,7 @@ A.az5.prototype={
 $1(a){A.u8(a.b[0].a)},
 $S:224}
 A.D0.prototype={
-ab(){return new A.a4w(new A.Zc(new A.RN("http://localhost:3007"),$.aF()),B.j)}}
+ab(){return new A.a4w(new A.Zc(new A.RN("https://yunmai.o.seon.im"),$.aF()),B.j)}}
 A.a4w.prototype={
 aS(){var s=this
 s.b6()
