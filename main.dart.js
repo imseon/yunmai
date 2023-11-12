@@ -116598,7 +116598,7 @@ r($,"b7S","aPG",()=>{var q=new A.an_()
 q.a8A($.aPH())
 return q})
 s($,"beW","A3",()=>{var q=new A.aeF()
-q.a="http://123.57.135.129:3001"
+q.a="https://yunmai.f.seon.im"
 return q})})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
